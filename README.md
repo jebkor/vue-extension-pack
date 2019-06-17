@@ -42,17 +42,33 @@ A collection of the extensions that I use in my day-to-day development in VSCode
 
 [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss): IntelliSense of mixins, functions and variables within scss files
 
+[Sort Lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines): I use it for alphabetical ordering of CSS/SCSS properties.
+
+[TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight): This will highlight TODOs and FIXMEs in the code
+
+[Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree): Gather all the TODOs in a nice list
+
+[Toggle Quotes](https://marketplace.visualstudio.com/items?itemName=BriteSnow.vscode-toggle-quotes): Because sometimes we forget whether we use double or single quotes
+
+[Version Lens](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens): Displays the version of a package in package.json and if it has an update or not
+
+[Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur): Since we are targeting Vue development here, this will bring syntax highlighting, snippets, emmet support and much more!
+
+
+
 ## Themes included
 
 [Hydra Theme for VSCode](https://marketplace.visualstudio.com/items?itemName=juanmnl.vscode-theme-hydra): 'If a head is cut off, two more shall take its place'
 
 [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code): An arctic, north-bluish clean and elegant Visual Studio Code theme.
 
+[vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons): Better support for icons in the sidebar - .vue files will also get an icon. Neat!
 
 
-## For more information
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Relevant links
+
+* [GitHub](https://github.com/jebkor/vue-vscode-extension-pack)
+* [VSCode Marketplace](#): Coming soon!
 
 **Enjoy!**
