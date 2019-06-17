@@ -1,0 +1,45 @@
+{
+    "name": "jebkors-toolbox",
+    "displayName": "jebkors-toolbox",
+    "description": "Base collection of frontend related extensions, as well as quality-of-life improvements",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.35.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "aaron-bond.better-comments", 
+        "alefragnani.project-manager", 
+        "anseki.vscode-color", 
+        "arcticicestudio.nord-visual-studio-code", 
+        "bierner.color-info",
+        "BriteSnow.vscode-toggle-quotes", 
+        "christian-kohler.npm-intellisense", 
+        "CoenraadS.bracket-pair-colorizer", 
+        "dbaeumer.vscode-eslint", 
+        "eamodio.gitlens",
+        "eg2.vscode-npm-script", 
+        "formulahendry.auto-rename-tag", 
+        "Gruntfuggly.todo-tree", 
+        "HookyQR.beautify", 
+        "juanmnl.vscode-theme-hydra", 
+        "mkaufman.HTMLHint", 
+        "mrmlnc.vscode-scss",
+        "octref.vetur",
+        "pflannery.vscode-versionlens",
+        "sdras.vue-vscode-snippets", 
+        "sibiraj-s.vscode-scss-formatter", 
+        "streetsidesoftware.code-spell-checker",
+        "Tyriar.lorem-ipsum", 
+        "Tyriar.sort-lines", 
+        "vscode-icons-team.vscode-icons", 
+        "vuetifyjs.vuetify-vscode", 
+        "wayou.vscode-todo-highlight", 
+        "wix.vscode-import-cost", 
+        "xabikos.JavaScriptSnippets",
+        "zhuangtongfa.Material-theme", 
+        "Zignd.html-css-class-completion"
+    ]
+}
