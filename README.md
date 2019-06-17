@@ -65,6 +65,27 @@ A collection of the extensions that I use in my day-to-day development in VSCode
 [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons): Better support for icons in the sidebar - .vue files will also get an icon. Neat!
 
 
+## Installation
+To install the dependencies for compiling the extension pack:
+> npm install -g yo generator-code
+
+To then install the extension pack:
+
+1. Clone it!
+2. Open the directory
+3. Open a Powershell/Terminal/CMD/Bash window
+4. Run `vsce package`
+
+This will generate a .vsix file in the root of the folder.
+
+When you have the .vsix file, you then:
+
+1. Open the extensions side-panel in VSCode
+2. Open 'More actions' from the three-dot menu in the upper-right corner
+3. Select 'Install from VSIX'
+4. Locate the compiled .vsix file
+5. Reload VSCode and enjoy the extension pack
+
 
 ## Relevant links
 
