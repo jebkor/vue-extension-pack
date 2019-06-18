@@ -1,6 +1,6 @@
 # Vue VSCode Extension Pack
 
-A collection of the extensions that I use in my day-to-day development in VSCode. Heavily configured towards Vue.js development
+A base collection of the extensions that I use in my day-to-day development in VSCode. Heavily configured towards Vue.js development
 
 
 ## Extensions included
